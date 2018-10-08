@@ -1,0 +1,6 @@
+language: csharp
+solution: src/FluentCSV.sln
+mono: none
+dotnet: 2.1.400
+script:
+  - dotnet restore
