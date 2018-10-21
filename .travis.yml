@@ -3,5 +3,5 @@ solution: FluentCSV.sln
 mono: none
 dotnet: 2.1.400
 script:
-  - cd src/FluentCSV.App
+  - cd src/FluentCSV
   - dotnet build
